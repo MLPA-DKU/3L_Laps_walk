@@ -1,4 +1,7 @@
-# MLPA 스마트 인솔 관련 데이터
-## 단국대 MLPA 연구실 데이터 셋
-  - 압력센서, 6축 IMU 센서가 내장된 스마트 인솔 보행 데이터
-  - 성인 14명에 대한 보행 데이터
+# Smart Insole Gait Dataset
+## DKU MLPA Lab 
+  - smart insole gait data wite pressure sensor, 6-aixs IMU sensor
+  - gait data for 14 adult subjects
+  - p1~8: pressure data 
+  - ACC_X,Y,Z: accelearation data
+  - GYRO_X,Y,Z: gyroscope data
